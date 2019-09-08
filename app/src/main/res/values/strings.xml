@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Midterm 07600455</string>
+    <string name="add_to_story">Add to Story</string>
+    <string name="veiw_as">Veiw As</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="more">More</string>
+    <string name="goes_to">Goes to</string>
+    <string name="lives_in">Lives in</string>
+    <string name="from">From</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="login_to_facebook">Login To Facebook</string>
+</resources>
